@@ -1,0 +1,2 @@
+g++ -o compare_gemm_with_kv_cache *.cpp -ldnnl
+Build the code with oneDNN
